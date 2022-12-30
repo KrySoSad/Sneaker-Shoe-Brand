@@ -24,7 +24,7 @@ ul, li, a {
 }
 
 .logo h1 {
-    font-size: 28px;
+    font-size: 24px;
 }
 
 .nav {
@@ -59,3 +59,9 @@ ul, li, a {
     text-shadow: 1px 2px 3px black;
     transition: all ease 0.4s;
 }
+
+.other-items a:hover {
+    text-shadow: 1px 2px 3px black;
+    transition: all ease 0.4s;
+}
+
